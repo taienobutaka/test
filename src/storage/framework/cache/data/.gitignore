@@ -1,2 +1,5 @@
+# Ignore all files
 *
+# Ignore cache files
+.cache
 !.gitignore
